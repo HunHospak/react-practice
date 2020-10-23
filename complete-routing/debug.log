@@ -1,0 +1,2 @@
+[1022/114205.551:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem tal·lja a megadott elÈrÈsi utat. (0x3)
+[1022/164608.758:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\√Åd√°m\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\227c12d2-746e-4195-bd7a-72f570e611b3: A rendszer nem tal·lja a megadott elÈrÈsi utat. (0x3)
